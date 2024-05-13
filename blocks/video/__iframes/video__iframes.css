@@ -1,0 +1,9 @@
+.video__iframes {
+    display: flex;
+    margin-top: 50px;
+    gap: 0 20px;
+    position: relative;
+    transform: translate(0, 50px) ;
+    /* top: 50px; */
+    /* видео можно наложить через позишн рилэтив */
+}
